@@ -4,36 +4,11 @@
 
 💻 Aspiring Software Engineer | ML Enthusiast | Full-Stack Developer
 
-I'm passionate about building impactful software solutions and continuously exploring new technologies. I enjoy working with Python, Machine Learning, and Full-Stack Development while creating projects that solve real-world problems.
+🚀 Passionate about building real-world solutions with Python, MERN, and Machine Learning
 
-### 🚀 What I Do
+🎨 Love designing user-friendly experiences and turning ideas into products
 
-- 💻 Develop applications using Python and MERN Stack
-- 🤖 Explore Machine Learning and AI concepts
-- 🎨 Design clean and user-friendly interfaces
-- 🛠️ Transform ideas into practical solutions
-- 📚 Learn something new every day
-
-### 🔥 Interests
-
-- Machine Learning & AI
-- Full-Stack Development
-- Software Engineering
-- UI/UX Design
-- Open Source
-
-### 🌱 Current Goal
-
-Building projects that combine intelligent systems with modern web technologies.
-
-### ✨ Philosophy
-
-**Learn → Build → Improve → Repeat**
-
----
-*"Code with purpose. Build with passion."* 🚀
-
-
+🌱 Learning. Building. Improving.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harini-adapa-8b221a2b7/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hariniadapa10@gmail.com) 
 
